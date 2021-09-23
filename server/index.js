@@ -10,7 +10,7 @@ app.use(express.json());//envia info en formato  json
 const db = mysql.createConnection({
   user: "root",
   host: "localhost",
-  password: "chichita2",
+  password: "tupassword",
   database: "employeeSystem",
 });
 //api--ruta***peticion publicacion
