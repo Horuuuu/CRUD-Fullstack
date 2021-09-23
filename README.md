@@ -4,7 +4,7 @@
 
 <p>Primera app completa y primer base de datos.:muscle:</p>
 <p>Sistema de registro de empleados que guarda informacion en base de datos.</p>
-Hay un estado por cada variable que envia información a la base de datos(la próxima la hago con un objeto:tired_face:).Usé el metodo <strong>onChange</strong> para que ejecute una 
+Hay un estado por cada variable que envia información a la base de datos.Usé el metodo <strong>onChange</strong> para que ejecute una 
 funcion cada vez que
 cambie algo(el valor)en el formulario y tambien el estado.
 
