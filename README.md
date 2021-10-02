@@ -1,6 +1,6 @@
 # CRUD-Fullstack
 
-<h4>CRUD con React Js,Node,Express y Mysql</h4>
+<h4>CRUD  React Js + Node + Express + Mysql</h4>
 
 
 <p>Primera app completa y primer base de datos.:muscle:</p>
@@ -14,7 +14,7 @@ cambie algo(el valor)en el formulario y tambien el estado.
 
 <img src="img/crudfull.jpg" height="380" width="390">
 
-La base de datos está incluida en la carpeta del servidor:file_folder: y consta de una tabla:
+La base de datos se ejecuta en Mysql o Mysql Workbench y está incluida en la carpeta del servidor:file_folder: y consta de una tabla:
 |id|nombre|edad|pais|posicion|salario
 |--|------|----|----|--------|--------------
 
