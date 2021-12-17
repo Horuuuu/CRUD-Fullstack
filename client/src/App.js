@@ -139,7 +139,7 @@ function App() {
                     updateEmployeeWage(val.id);
                   }}
                 >
-                  {" "}
+                  
                   Editar
                 </button>
 
